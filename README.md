@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=100&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Vansh+Tambi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=100&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+🌍;+I'm+Shashank!" alt="Typing SVG" />
 </h1>
 
 
@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU5MjV5ejhmem16dmp1bndlbjNpa21sNXU5emM3MnRvcmpscHE5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Chak8JwwwraT5HnN5J/giphy.gif" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnI4dTgyNWxxdHhqbmw2bGFqYzZwcXd5ZTMzNTdjNzdkYThjb2J1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" width="300" />
 </p>
 
 ---
@@ -43,6 +43,8 @@
   <a href="https://github.com/WR-Shashank">
     <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+  
+</p>
 </p>
 
 ---
@@ -53,14 +55,14 @@
 <p align="center">
 
 
-  <img src="https://leetcard.jacoblin.cool/vanshtambi?theme=dark&font=Fira%20Code&ext=activity" width="450" />
+  <img src="https://leetcard.jacoblin.cool/WR_Shashank?theme=catppuccinMocha&font=Rozha%20One&ext=heatmap" width="450" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-tambi&show_icons=true&theme=tokyonight&border_color=00FF00&border_radius=10&icon_color=00FF00&title_color=00FF00&text_color=00FF00" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-tambi&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10&title_color=00FF00&text_color=00FF00" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WR-Shashank&show_icons=true&theme=tokyonight&border_color=00FF00&border_radius=10&icon_color=00FF00&title_color=00FF00&text_color=00FF00" alt="Shashank's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WR-Shashank&layout=compact&theme=tokyonight&border_color=00FF00&border_radius=10&title_color=00FF00&text_color=00FF00" width="300" />
 </p>
 
 
@@ -71,7 +73,7 @@
 <!-- ⚙️ TECH STACK -->
 <h2 align="center" style="color: #00FF00;">⚙️ Tech Stack & Tools</h2>
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,firebase,git,github,docker,postman,figma,cpp,ae,pr,ps,canva,picsart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,redux,firebase,git,github,docker,postman,,cpp,ae,pr,ps,canva,picsart" />
 </p>
 
 <p align="center">
@@ -90,12 +92,11 @@
 - 📈 Strengthened logic & coding patterns
 
 ### 📜 Certifications:
-- 🎓 Frontend Developer Intern – Celebel Technologies (Summer 2025)
-Top 150 out of 66,000+ applicants | Worked on React, Firebase & Node.js full-stack features. 
+- 🎓 Frontend Developer Intern – Celebel Technologies (Summer 2025) Top 150 out of 66,000+ applicants | Worked on React, Firebase & Node.js full-stack features. 
 - 🧩 Smart India Hackathon (Intra-College Round) – 1st Place Winner
 Developed a full-stack tech solution to a real-world problem, outperforming 50+ teams.
--🔐 Cybersecurity Awareness & Ethical Hacking (Xploit Club, IIIT Bhopal)
-Organized workshops and Capture the Flag events to promote cybersecurity literacy.
+- 🔐 Cybersecurity Awareness & Ethical Hacking (Xploit Club, IIIT Bhopal)
+- Organized workshops and Capture the Flag events to promote cybersecurity literacy.
 ---
 
 <!-- 🚀 PROJECTS -->
@@ -107,8 +108,8 @@ Organized workshops and Capture the Flag events to promote cybersecurity literac
 - ✅ Approve or cancel bookings.  
 
 ### 🧑‍🏫 [Leagle (EdTech Platform)](https://github.com/WR-Shashank/Leagle)
-- 🎮 Gamified platform to explore the Constitution
-— 📜learn laws interactively with quizzes, AI chat, and progress tracking.  
+- 🎮 Gamified platform to explore the Constitution  
+- 📜 Learn laws interactively with quizzes, AI chat, and progress tracking.
 
 ---
 
