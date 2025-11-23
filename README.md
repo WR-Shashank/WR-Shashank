@@ -5,7 +5,7 @@
 
 
 <h3 align="center" style="color: #00FF00;">
-  🚀 Full-Stack Developer  |  ML 
+  🚀 Full-Stack Developer  |  ML | Flutter
 </h3>
 
 
