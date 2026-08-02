@@ -20,7 +20,7 @@
   🧠 MERN Stack Dev with a designer’s eye and a coder’s precision. 
   🔐 Building secure, scalable apps with stunning interfaces.  
   🌐 Exploring ML .  
-  📚 Solved 500+ DSA problems across LeetCode, GFG,Codechef.  
+  📚 Solved 800+ DSA problems across LeetCode, GFG,Codechef.  
   🏋️‍♂️ Fitness enthusiast — love hitting the gym, running, and smashing birdies on the badminton court.
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;
