@@ -5,7 +5,7 @@
 
 
 <h3 align="center" style="color: #00FF00;">
-  🚀 Full-Stack Developer  |   
+  🚀 Full-Stack Developer  | AI   
 </h3>
 
 
